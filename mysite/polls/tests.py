@@ -1,3 +1,5 @@
+//This page is used for Testing purpose
+
 from django.test import TestCase
 import datetime
 from django.utils import time_zone
